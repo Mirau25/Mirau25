@@ -1,6 +1,8 @@
   # 💫 About Me:
 Soy una joven apasionada y con muchos valores, con una mente libre y abierta al aprendizaje de nuevas cosas. Me he formado como tecnóloga en análisis y desarrollo de software, con conocimientos sólidos en:<br><br>- *Backend*: .NET, Spring Boot, Java, JavaScript, Node.js<br>- *Frontend*: Angular, React<br><br>Durante mis prácticas profesionales, me he especializado en *testing y automatización*, aplicando mis conocimientos para asegurar la calidad y eficiencia de los proyectos en los que participo. Mi enfoque constante en el aprendizaje y la mejora continua me permite adaptarme rápidamente a nuevas tecnologías y metodologías, contribuyendo de manera efectiva a cualquier equipo de desarrollo.
 
+Habilidades técnicas: Testing de software, automatización de pruebas, herramientas de QA (Jira,Selenium,Postman), análisis de datos, SQL, herramientas de visualización, metodologías ágiles.Habilidades blandas: Comunicación efectiva, orientación al cliente, trabajo en equipo, capacidad analí
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mirau25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maria-jos%C3%A9-mira-mart%C3%ADnez-1b8219270/) 
